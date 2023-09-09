@@ -15,11 +15,6 @@ class Solution:
 
         return len(monoS)
 
-        
-
-
-
-
 if __name__ == "__main__":
     (testcase1, ans1) = ([12, [10,8,0,5,3], [2,4,1,1,3]], 3)
     (testcase2, ans2) = ([10, [3], [3]], 1)
